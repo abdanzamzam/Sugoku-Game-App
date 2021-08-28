@@ -7,4 +7,4 @@ I'm trying to explore making a simple game like sudoku by utilizing a third part
 
 ## Preview:
 
-[](https://github.com/abdanzamzam/Sugoku-Game-App/blob/development/sugoku-app/preview/Screenshot%201.jpeg)
+[Splash](https://github.com/abdanzamzam/Sugoku-Game-App/blob/development/sugoku-app/preview/Screenshot%201.jpeg)
